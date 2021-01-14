@@ -1,4 +1,4 @@
-# mini_projects
+# Mini_projects
 
 First Project "CarRacing"
 
