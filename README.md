@@ -11,7 +11,7 @@ The reward is computed by the tiles that the car passed.
 
 
 
-                                                              Second Project "Bipedal Walk "
+                                                              Second Project "BipedalWalker robot"
 
 A bipedal robot Bipedal (with 2 legs) robots to be able to walk efficiently using Deep Deterministic Policy Gradient algorithm.
 
