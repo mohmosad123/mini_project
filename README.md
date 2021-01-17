@@ -1,6 +1,6 @@
 # Mini_projects
 
-First Project "CarRacing"
+                                                                # First Project "CarRacing"
 
 The carracing-v0 environment is a very simple problem similar to a tracking car. Our goal is to control the car to run in the track and to dash forward as fast as possible. The environment gives us the continuous control task, which requires us to learn from the pixels obtained from the top view.
 
@@ -11,7 +11,7 @@ The reward is computed by the tiles that the car passed.
 
 
 
-Second Project "Bipedal Walk "
+                                                                # Second Project "Bipedal Walk "
 
 A bipedal robot Bipedal (with 2 legs) robots to be able to walk efficiently using Deep Deterministic Policy Gradient algorithm.
 
